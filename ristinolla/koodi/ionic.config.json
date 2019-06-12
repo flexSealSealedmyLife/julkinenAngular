@@ -1,0 +1,7 @@
+{
+  "name": "Ristinolla",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
